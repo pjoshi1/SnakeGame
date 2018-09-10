@@ -1,0 +1,9 @@
+[package]
+name = "SnakeGame"
+version = "0.1.0"
+authors = ["Prakash Joshi <mejoshi8@gmail.com>"]
+
+[dependencies]
+rand = "0.5.5"
+piston_window = "0.80.0"
+
