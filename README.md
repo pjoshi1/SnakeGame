@@ -5,12 +5,19 @@ To play the game, you need to have installed Rust in your system.
 
 
 <ol>
-<li> Install Rust </li>
-<li> Install a servcer </li>
-<li> Update cargo and what not </li>
+<li> Make sure Rust is installed</li>
+<li> Cargo Update</li>
+<li> Cargo build </li>
+<li> Cargo check </li>
+<li> Cargo Run </li>
+<li> Enjoy the game </li>
+
 
 
 
 
 
 </ol>
+
+<br>
+<b> Credits: Youtube Channel (Tensor Programming ) </b>
