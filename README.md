@@ -3,21 +3,26 @@ A simple Snake Game made in <b> Rust </b>
 <br>
 To play the game, you need to have installed Rust in your system.
 
+<br>
+ Make sure Rust is installed
 
-<ol>
-<li> Make sure Rust is installed</li>
-<li> Cargo Update</li>
-<li> Cargo build </li>
-<li> Cargo check </li>
-<li> Cargo Run </li>
-<li> Enjoy the game </li>
+````
+cargo update
+````
+````
+cargo build 
+````
+````
+cargo check
+````
+````
+cargo run
+````
 
 
 
 
 
-
-</ol>
 
 <br>
 <b> Credits: Youtube Channel (Tensor Programming ) </b>
